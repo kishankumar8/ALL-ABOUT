@@ -1,7 +1,4 @@
 
-
----
-
 👋 Hi, I'm Kishan Kumar!
 
 🎓 I’m currently pursuing a Bachelor of Technology (B.Tech.) with a specialization in Artificial Intelligence and Data Science.
@@ -73,8 +70,6 @@ Shradha Ma’am
 
 I’m always learning and open to feedback.
 Check out my projects and feel free to connect!
-
-GitHub: -> https://github.com/kishankumar8
 
 
 
