@@ -66,10 +66,6 @@ Shradha Ma’am
 
 ---
 
-📫 Connect With Me
-
-I’m always learning and open to feedback.
-Check out my projects and feel free to connect!
 
 
 
