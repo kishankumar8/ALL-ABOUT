@@ -45,8 +45,6 @@ Playing cricket
 
 Swimming
 
-Running
-
 
 
 ---
