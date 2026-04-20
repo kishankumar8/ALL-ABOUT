@@ -23,8 +23,8 @@ machine leaning(ML) and deep learning(DL) learner
 
 🔢 Number Guessing Game (Python)
 
-A simple Python game where the computer selects a random number, and the player guesse
-Concepts used: loops, conditionals, random module, user input.
+A simple Python game where the computer selects a random number, and the player 
+Concepts used: loops, conditionals, random module, user input
 
 ✋🪨📄 Stone–Paper–Scissors Game (Python)
 
