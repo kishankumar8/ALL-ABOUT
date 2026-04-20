@@ -8,7 +8,7 @@
 
 🛠️ Skills
 
-Programming Languages: C, C++, Python
+Programming Languages: C, C++, Python.
 
 Web Technologies: HTML, CSS, JavaScript.
 
