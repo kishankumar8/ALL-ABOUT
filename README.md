@@ -12,8 +12,7 @@ Programming Languages: C, C++, Python.
 
 Web Technologies: HTML, CSS, JavaScript.
 
-Other Skills: Git & GitHub, Data Structures & Algorithms
-
+Other Skills: Git & GitHub, Data Structures & 
 ---
 machine leaning(ML) and deep learning(DL) learner
 
