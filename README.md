@@ -4,8 +4,6 @@
 💻 I’m focused on learning programming, building small projects , enhance the projects with day by day learning and improving my problem-solving skills.
 
 
----
-
 Programming Languages: C, C++, 
 Web Technologies: HTML, CSS, 
 Other Skills: Git & GitHub, Data Structures
