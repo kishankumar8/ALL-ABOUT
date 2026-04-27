@@ -9,8 +9,6 @@ Web Technologies: HTML, CSS,
 Other Skills: Git & GitHub, Data Structures
 machine leaning(ML) and deep learning(DL) 
 
----
-
 🚀 My Projects (Beginner Level
 🔢 Number Guessing Game (Python)
 
