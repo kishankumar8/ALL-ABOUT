@@ -6,7 +6,7 @@
 
 Programming Languages: C,
 Web Technologies: HTML, CSS, 
-Other Skills: Git & GitHub, Data Structures
+Other Skills: Git & GitHub, Data 
 machine leaning(ML) and deep learning(DL) 
 
 🚀 My Projects (Beginner Level
