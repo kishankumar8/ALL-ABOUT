@@ -7,7 +7,7 @@
 Programming Languages: C,
 Web Technologies: HTML, CSS, 
 Other Skills: Git & GitHub, Data 
-machine leaning(ML) and deep learning
+machine leaning(ML) and deep 
 
 🚀 My Projects (Beginner Level
 🔢 Number Guessing Gamen)
