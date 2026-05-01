@@ -1,9 +1,7 @@
 👋 Hi, I'm Kishan Kumar!
 
 🎓 I’m currently pursuing a Bachelor of Technology (B.Tech.) with a specialization in Artificial Intelligence and Data Science.
-💻 I’m focused on learning programming, building small projects , enhance the projects with day by day learning and improving my problem-s
-
-
+💻 I’m focused on learning programming, building small projects , enhance the projects with day by day learning and improving my 
 Programming Languages: C,
 Web Technologies: HTML, CSS, 
 Other Skills: Git & GitHub, Data 
