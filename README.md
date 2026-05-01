@@ -5,7 +5,7 @@
 Programming Languages: C,
 Web Technologies: HTML, CSS, 
 Other Skills: Git & GitHub, Data 
-machine leaning(ML) 
+machine 
 🚀 My Projects (Beginner 
 A simple Python game where the computer selects a random number, and the player 
 Concepts used: loops, conditionals, random module, user 
