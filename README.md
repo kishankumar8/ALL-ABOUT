@@ -10,7 +10,7 @@ machine
 A simple Python game where the computer selects a random number, and the player 
 Concepts used: loops, conditionals, random module, user 
 
-✋🪨📄 Stone–Paper–Scissors Game
+✋🪨📄 Stone–Paper–
 
 A fun Python mini-game where the user plays against the computer.
 Concepts used: functions, random module, conditional logic.
