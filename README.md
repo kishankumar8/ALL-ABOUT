@@ -7,7 +7,7 @@ Web Technologies: HTML, CSS,
 Other Skills: Git & GitHub, 
 machine 
 🚀 My Projects
-A simple Python game where the computer selects a umber, e player 
+A simple Python gamere the computer selects a umber, e player 
 Concepts used: loops, conditionals, random 
 
 ✋🪨📄 Stone–Paper–
