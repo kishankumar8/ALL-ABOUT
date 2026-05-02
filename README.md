@@ -4,7 +4,7 @@
 💻 I’m focused on learning programming, building small projects , enhance the projects with day by day learning and improving my 
 Programming Languages: C,
 Web Technologies: HTML, CSS, 
-Other Skills: Git & GitHub, Data 
+Other Skills: Git & GitHub, 
 machine 
 🚀 My Projects (Beginner 
 A simple Python game where the computer selects a random number, and the player 
