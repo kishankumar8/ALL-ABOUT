@@ -22,4 +22,4 @@ Concepts used: functions, random module, conditional logic.
 
 
 
-->learn python and basics.
+-> learn python and basics.
