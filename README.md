@@ -8,8 +8,7 @@ Other Skills: Git & GitHub,
 machine 
 🚀 My Projects
 A simple Python gamere the computer selects a umber, e player 
-Concepts used: loops, conditionals, random 
-
+Concepts used: loops, conditionals, 
 ✋🪨📄 Stone–Paper–
 
 A fun Python mini-game where the user plays against the computer.
