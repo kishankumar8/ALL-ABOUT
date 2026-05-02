@@ -8,7 +8,7 @@ Other Skills: Git & GitHub,
 machine 
 🚀 My Projects (Beginner 
 A simple Python game where the computer selects a umber, and the player 
-Concepts used: loops, conditionals, random module, user 
+Concepts used: loops, conditionals, random module,
 
 ✋🪨📄 Stone–Paper–
 
