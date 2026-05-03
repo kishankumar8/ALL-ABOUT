@@ -8,8 +8,7 @@ Other Skills:
 machine 
 
 A simple Python gamere the computer selects a umber, e player 
-Concepts used: loops, conditionals, 
-✋🪨📄 Stone
+Concepts used: loops, conditi
 
 A fun Python mini-game where the user plays against the computer.
 Concepts used: functions, random module, 
