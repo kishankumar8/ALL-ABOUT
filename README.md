@@ -6,7 +6,7 @@ Programming Languages: C,
 Web Technologies: HTML, CSS, 
 Other Skills: 
 machine 
-🚀 My 
+
 A simple Python gamere the computer selects a umber, e player 
 Concepts used: loops, conditionals, 
 ✋🪨📄 Stone
