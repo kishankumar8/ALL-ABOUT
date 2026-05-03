@@ -10,8 +10,7 @@ machine
 A simple Python gamere the computer selects a umber, e
 Conce
 A fun Python mini-game where the user plays against the computer.
-Concepts used: functions, rando
-
+Concepts used: functions
 📌 I am doing basic projects to enhance my learning and strengthen my programming fundamentals.
 ---
 
