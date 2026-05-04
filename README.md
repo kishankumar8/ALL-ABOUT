@@ -5,7 +5,7 @@
 Programming Languages: C,
 Web Technologie
 m
-A simple Python gamere the computer selects a
+A simple Python gamere the computer 
 Conce
 A fun Python mini-game where the user plays against the computer.
 Concepts used: functions
