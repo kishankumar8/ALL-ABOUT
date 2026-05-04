@@ -5,8 +5,7 @@
 Programming Languages: C,
 Web Technologies: HTML, CSS, 
 Other Skills: 
-machine 
-
+m
 A simple Python gamere the computer selects a
 Conce
 A fun Python mini-game where the user plays against the computer.
