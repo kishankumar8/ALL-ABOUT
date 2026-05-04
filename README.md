@@ -7,7 +7,7 @@ Web Technologies: HTML, CSS,
 Other Skills: 
 machine 
 
-A simple Python gamere the computer selects a umber, e
+A simple Python gamere the computer selects a
 Conce
 A fun Python mini-game where the user plays against the computer.
 Concepts used: functions
