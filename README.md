@@ -4,7 +4,7 @@
 💻 I’m focused on learning programming, building small projects , enhance the projects with day by day learning and improving my 
 Programming Languages: C,
 Web Technologies: HTML, CSS, 
-Other Skills: 
+Other 
 m
 A simple Python gamere the computer selects a
 Conce
