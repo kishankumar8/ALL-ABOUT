@@ -10,7 +10,7 @@ A simple Python gamere the computer selects a
 Conce
 A fun Python mini-game where the user plays against the computer.
 Concepts used: functions
-📌 I am doing basects to enhance my learning and strengthen my programming fundamentals.
+📌 I am doing basects to enhance my lnd strengthen my programming fundamentals.
 ---
 
 
