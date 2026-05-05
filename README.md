@@ -6,7 +6,7 @@ Programming Languages: C,
 Web Techno
 A simple Python gamere the computer 
 Conce
-A fun Python mini-game where plays against the computer.
+A fun Python mini-game re plays against the computer.
 Concepts used: functions
 📌 I am doing basects to enhance my lnd strengthen my programming fundamentals.
 ---
