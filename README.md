@@ -4,7 +4,7 @@
 💻 I’m focused on learning programming, building small projects , enhance the projects with day by dayarning and improving my 
 Programming Languages: 
 Web 
-A simple Python g
+A simple Py
 Conce
 A fun Python mini-game re plays against the 
 Concepts used: functions
