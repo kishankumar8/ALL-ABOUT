@@ -5,7 +5,7 @@
 Programming Languages: 
 Web 
 A simple Py
-Conce
+
 A fun Python mini-game re plays against the 
 Concepts used: functions
 📌 I am doing basects to enhance my lnd strengthen my programming fundamentals.
