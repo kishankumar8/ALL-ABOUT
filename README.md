@@ -9,7 +9,6 @@ A simple Py
 A fun Python mini-game re pagainst the 
 Concepts used: functions
 📌 I am doing basects to enhance my lnd strengthen my programming fundamentals.
----
 
 
 
