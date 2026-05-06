@@ -6,7 +6,7 @@ Programming Languages:
 
 A simple Py
 
-A fun Python mini-game re pagainst the 
+A fun Python mini-game re pinst the 
 Concepts used: 
 📌 I am doing basects to enhance my lnd strengthen my programming fun
 
