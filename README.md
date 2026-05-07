@@ -2,8 +2,7 @@
 
 🎓 I’m currently pursuing a Bachelor of Technology (B.Tech.) with a specialization in Artificial Intelligence and Data Science.
 💻 I’m focused on learning pmming, building small projects , enhance the projects with day by dayarning and improving my 
-Programming Languages: 
-
+Programming Languag
 A simple Py
 
 A fun Python mini-game re pinst the 
