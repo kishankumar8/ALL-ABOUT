@@ -20,3 +20,5 @@ Concepts used:
 
 
 ->doing work on visualization
+
+->learn hashmap 
