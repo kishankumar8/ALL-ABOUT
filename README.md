@@ -1,7 +1,7 @@
 👋 Hi, I'm Kishan Kuma
 
 🎓 I’m currently pursuing a Bachelor of Technology (B.Tech.) with a specialization in Artificial Intelligence and Data Science.
-💻 I’m focused on learning pmming, building small projects , enhance the projects with day by dayarning and improving my 
+💻 I’m focused on learning pmming, buildall projects , enhance the projects with day by dayarning and improving my 
 Programming Languag
 A simple Py
 
