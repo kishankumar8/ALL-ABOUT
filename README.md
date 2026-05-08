@@ -7,8 +7,7 @@ A simple
 
 A fun Python mini-game re pins
 
-📌 I am doing basects to enhance my lnd 
-
+📌 I am doing basects to enhance my 
 
 
 
