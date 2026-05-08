@@ -5,8 +5,7 @@
 Programming Languag
 A simple
 
-A fun Python mini-game re pins
-
+A fun Python mini-game re 
 📌 I am doing basects to enhance my 
 
 
