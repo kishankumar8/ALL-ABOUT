@@ -1,5 +1,4 @@
-👋 Hi, I'm Kis
-
+👋 Hi, I'm 
 🎓 I’m currently pursuing a Bachelor of Technology h.) with ialization in Artificial Intelligence and Data Science.
 💻 I’m focused on learning pmming, buildts , ene ojecth day by dang and improving my 
 Programming Languag
