@@ -5,7 +5,7 @@ Programming Languag
 A simple
 
 A fun Python mini-game re 
-📌 I am doing basects to enha
+📌 I am doing basects to 
 
 
 # What i learn today
