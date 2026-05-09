@@ -1,6 +1,6 @@
 👋 Hi, I'm Kishan 
 
-🎓 I’m currently pursuing a Bachelor of Technology (B.Tech.) with ialization in Artificial Intelligence and Data Science.
+🎓 I’m currently pursuing a Bachelor of Technology h.) with ialization in Artificial Intelligence and Data Science.
 💻 I’m focused on learning pmming, buildts , ene ojecth day by dang and improving my 
 Programming Languag
 A simple
