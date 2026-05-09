@@ -1,7 +1,7 @@
 👋 Hi, I'm Kishan 
 
 🎓 I’m currently pursuing a Bachelor of Technology (B.Tech.) with a specialization in Artificial Intelligence and Data Science.
-💻 I’m focused on learning pmming, buildts , ene the projecth day by dayarning and improving my 
+💻 I’m focused on learning pmming, buildts , ene ojecth day by dayarning and improving my 
 Programming Languag
 A simple
 
