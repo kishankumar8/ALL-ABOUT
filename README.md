@@ -8,7 +8,7 @@ A fun Python mini-game re
 📌 I am doing basects to enha
 
 
-# what i learn today
+# What i learn today
 
 -> learn python and basics.
 
