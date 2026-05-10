@@ -5,7 +5,7 @@ Programming
 
 
 A fun Python mini-game re 
-📌 I am doing ba
+📌 I am doing 
 # What i learn today
 
 -> learn python and basics.
