@@ -2,7 +2,7 @@
 🎓 I’m currently pursuing a Bachelor of Technology h.) with ialization in Artificial Intelligence and Data Science.
 💻 I’m focused on learning pmmbuildts , ene ojday dang and imprmy 
 Programming 
-A 
+
 
 A fun Python mini-game re 
 📌 I am doing basects 
