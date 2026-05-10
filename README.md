@@ -5,7 +5,7 @@ Programming
 
 
 A fun Python mini-game re 
-📌 I am doing basects 
+📌 I am doing basec
 
 # What i learn today
 
