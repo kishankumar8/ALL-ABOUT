@@ -4,7 +4,7 @@
 Programming 
 
 
-A fun Python mini-game re 
+A fun Python mini-gam
 📌 I am do
 # What i learn today
 
