@@ -5,8 +5,7 @@ Programming Lan
 A sim
 
 A fun Python mini-game re 
-📌 I am doing basects to 
-
+📌 I am doing basects 
 
 # What i learn today
 
