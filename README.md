@@ -6,6 +6,8 @@ Program
 
 A fun Python mini-gam
 📌 I am do
+
+
 # What i learn today
 
 -> learn python and basics.
