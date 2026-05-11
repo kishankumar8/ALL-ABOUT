@@ -5,7 +5,7 @@ Program
 
 
 A fun Python mini-gam
-📌 I am 
+📌 I a
 
 
 # What i learn today
