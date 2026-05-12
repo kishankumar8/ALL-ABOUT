@@ -5,7 +5,7 @@ Program
 
 
 A fun Python mini-gam
-📌
+
 # What i learn today
 
 -> learn python and basics.
