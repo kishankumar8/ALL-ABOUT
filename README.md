@@ -4,7 +4,7 @@
 Program
 
 
-A fun Python mini-gam
+A fun Python mini-ga
 
 # What i learn today
 
