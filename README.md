@@ -4,7 +4,7 @@
 Program
 
 
-A fun Python mi
+A fun Python 
 
 # What i learn today
 
