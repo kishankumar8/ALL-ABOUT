@@ -18,3 +18,5 @@ A fu
 
 
 ->learn hashmap 
+
+-> types of ml
