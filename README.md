@@ -3,8 +3,7 @@
 💻 I’m focused on learnildts , ene ojday dang and imprmy 
 Program
 
-A fu
-
+A 
 
 # What i learn today
 
