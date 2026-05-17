@@ -3,7 +3,7 @@
 💻 I’m focused on learnildts , ene ojday dang and imprmy 
 Pro
 
-A 
+
 
 # What i learn today
 
