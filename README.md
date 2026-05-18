@@ -17,10 +17,10 @@
 
 -> types of machine learning
 
- 1. supervised
+ 1. supervised()
 
- 2.unsupervised
+ 2.unsupervised()
 
- 3.semisupervised
+ 3.semisupervised()
 
- 4.Reinforcement
+ 4.Reinforcement()
