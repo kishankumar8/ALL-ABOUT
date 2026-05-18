@@ -15,4 +15,4 @@
 
 ->learn hashmap 
 
--> types of ml
+-> types of machine learning
