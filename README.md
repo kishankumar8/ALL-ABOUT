@@ -1,6 +1,6 @@
 👋 Hi, I'm 
 🎓 I’m currently pursuing a Bachelor of Technology h.) with ialization in Artificial Intelligence and Data Science.
-💻 I’m focu
+💻 I’m f
 
 # What i learn today
 
