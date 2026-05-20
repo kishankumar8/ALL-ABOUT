@@ -1,5 +1,5 @@
 👋 Hi, I'm 
-🎓 I’m currently pursuing a Bachelor of Technology h.) with ialization in Artificial Intelligence and Data 
+🎓 I’m currently pursuing a Bachelor of Technology h.) with ialization in Artificial Intelligence and Dat
 
 # What i learn today
 
